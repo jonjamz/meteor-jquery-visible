@@ -1,0 +1,3 @@
+[submodule "lib/jquery-visible"]
+	path = lib/jquery-visible
+	url = https://github.com/jonjamz/jquery-visible.git
